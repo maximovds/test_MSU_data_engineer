@@ -1,0 +1,8 @@
+# Ignore Python, Node and OS junk by default
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+.idea/
+.vscode/
+.env
